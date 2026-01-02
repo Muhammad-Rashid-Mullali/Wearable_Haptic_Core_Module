@@ -1,4 +1,3 @@
-#Overview
 
 A modular, high-performance haptic driver designed for wearable applications.
 
